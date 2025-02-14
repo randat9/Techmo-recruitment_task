@@ -29,3 +29,12 @@ Dla powyższego `input.txt`, wynik to:
 ```
 3
 ```  
+
+## Struktura Pliku
+- `filter_results.py`: Główny plik z kodem programu.
+- `input.txt`: Plik z danymi wejściowymi.
+- `output.txt`: Plik z wynikami po filtracji.
+
+## Obsługa Błędów
+Program zawiera mechanizmy obsługi błędów, które informują o nieprawidłowych danych wejściowych lub problemach z plikiem.
+
